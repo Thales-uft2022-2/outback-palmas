@@ -1,4 +1,4 @@
-# 🥩 Outback Palmas — Sistema de Reservas
+# 🥩 Outback Steakhouse Palmas — Sistema de Reservas
 
 Sistema web desenvolvido para gerenciamento de usuários e reservas de um restaurante, utilizando **PHP, MySQL, HTML, CSS e JavaScript**.
 
@@ -10,7 +10,7 @@ O projeto está sendo desenvolvido para fins de **estudo e demonstração**, exe
 
 ## 📌 Sobre o projeto
 
-O **Outback Palmas** é uma aplicação web que permite que clientes criem uma conta, façam login e realizem reservas.
+O **Outback Steakhouse Palmas** é uma aplicação web que permite que clientes criem uma conta, façam login e realizem reservas.
 
 O sistema também possui uma área administrativa separada, permitindo o gerenciamento das reservas e visualização dos usuários cadastrados.
 
@@ -87,11 +87,10 @@ outback-palmas/
 ├── login.php
 ├── logout.php
 ├── minhas-reservas.php
+|-- outback-palmas.sql
 ├── reserva.php
 ├── README.md
 └── LICENSE
-```
-
 ---
 
 ## 🗄️ Banco de dados
